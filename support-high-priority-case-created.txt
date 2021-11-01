@@ -1,0 +1,10 @@
+Dear {!Account.OwnerFirstName},
+
+A new high priority case has been created as per following details
+
+Account Name: {!Account.Name}
+Case Number: {!Case.CaseNumber}
+Case Subject: {!Case.Subject}"
+
+Thanks & Regards,
+Salesforce @ASAGARWAL.COM
